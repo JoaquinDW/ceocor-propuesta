@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-13T20:21:14.843778+00:00",
+  "title": "Design System: CEOCOR",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0067 97.35)",
+          "oklch(26% 0.0067 97.35)",
+          "oklch(38% 0.0067 97.35)",
+          "oklch(49% 0.0067 97.35)",
+          "oklch(61% 0.0067 97.35)",
+          "oklch(72% 0.0067 97.35)",
+          "oklch(84% 0.0067 97.35)",
+          "oklch(95% 0.0067 97.35)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0455 181.97)",
+          "oklch(26% 0.0455 181.97)",
+          "oklch(38% 0.0455 181.97)",
+          "oklch(49% 0.0455 181.97)",
+          "oklch(61% 0.0455 181.97)",
+          "oklch(72% 0.0455 181.97)",
+          "oklch(84% 0.0455 181.97)",
+          "oklch(95% 0.0455 181.97)"
+        ]
+      },
+      "green": {
+        "role": "primary",
+        "displayName": "Green",
+        "tonalRamp": [
+          "oklch(15% 0.0550 182.61)",
+          "oklch(26% 0.0550 182.61)",
+          "oklch(38% 0.0550 182.61)",
+          "oklch(49% 0.0550 182.61)",
+          "oklch(61% 0.0550 182.61)",
+          "oklch(72% 0.0550 182.61)",
+          "oklch(84% 0.0550 182.61)",
+          "oklch(95% 0.0550 182.61)"
+        ]
+      },
+      "green-dark": {
+        "role": "primary",
+        "displayName": "Green dark",
+        "tonalRamp": [
+          "oklch(15% 0.0460 181.93)",
+          "oklch(26% 0.0460 181.93)",
+          "oklch(38% 0.0460 181.93)",
+          "oklch(49% 0.0460 181.93)",
+          "oklch(61% 0.0460 181.93)",
+          "oklch(72% 0.0460 181.93)",
+          "oklch(84% 0.0460 181.93)",
+          "oklch(95% 0.0460 181.93)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.0233 159.06)",
+          "oklch(26% 0.0233 159.06)",
+          "oklch(38% 0.0233 159.06)",
+          "oklch(49% 0.0233 159.06)",
+          "oklch(61% 0.0233 159.06)",
+          "oklch(72% 0.0233 159.06)",
+          "oklch(84% 0.0233 159.06)",
+          "oklch(95% 0.0233 159.06)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15% 0.0158 126.84)",
+          "oklch(26% 0.0158 126.84)",
+          "oklch(38% 0.0158 126.84)",
+          "oklch(49% 0.0158 126.84)",
+          "oklch(61% 0.0158 126.84)",
+          "oklch(72% 0.0158 126.84)",
+          "oklch(84% 0.0158 126.84)",
+          "oklch(95% 0.0158 126.84)"
+        ]
+      },
+      "sage": {
+        "role": "neutral",
+        "displayName": "Sage",
+        "tonalRamp": [
+          "oklch(15% 0.0202 128.71)",
+          "oklch(26% 0.0202 128.71)",
+          "oklch(38% 0.0202 128.71)",
+          "oklch(49% 0.0202 128.71)",
+          "oklch(61% 0.0202 128.71)",
+          "oklch(72% 0.0202 128.71)",
+          "oklch(84% 0.0202 128.71)",
+          "oklch(95% 0.0202 128.71)"
+        ]
+      },
+      "lime": {
+        "role": "secondary",
+        "displayName": "Lime",
+        "tonalRamp": [
+          "oklch(15% 0.1024 119.64)",
+          "oklch(26% 0.1024 119.64)",
+          "oklch(38% 0.1024 119.64)",
+          "oklch(49% 0.1024 119.64)",
+          "oklch(61% 0.1024 119.64)",
+          "oklch(72% 0.1024 119.64)",
+          "oklch(84% 0.1024 119.64)",
+          "oklch(95% 0.1024 119.64)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "tonalRamp": [
+          "oklch(15% 0.0067 97.35)",
+          "oklch(26% 0.0067 97.35)",
+          "oklch(38% 0.0067 97.35)",
+          "oklch(49% 0.0067 97.35)",
+          "oklch(61% 0.0067 97.35)",
+          "oklch(72% 0.0067 97.35)",
+          "oklch(84% 0.0067 97.35)",
+          "oklch(95% 0.0067 97.35)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus",
+        "tonalRamp": [
+          "oklch(15% 0.1043 132.55)",
+          "oklch(26% 0.1043 132.55)",
+          "oklch(38% 0.1043 132.55)",
+          "oklch(49% 0.1043 132.55)",
+          "oklch(61% 0.1043 132.55)",
+          "oklch(72% 0.1043 132.55)",
+          "oklch(84% 0.1043 132.55)",
+          "oklch(95% 0.1043 132.55)"
+        ]
+      },
+      "on-green-muted": {
+        "role": "neutral",
+        "displayName": "On green muted",
+        "tonalRamp": [
+          "oklch(15% 0.0251 156.68)",
+          "oklch(26% 0.0251 156.68)",
+          "oklch(38% 0.0251 156.68)",
+          "oklch(49% 0.0251 156.68)",
+          "oklch(61% 0.0251 156.68)",
+          "oklch(72% 0.0251 156.68)",
+          "oklch(84% 0.0251 156.68)",
+          "oklch(95% 0.0251 156.68)"
+        ]
+      },
+      "on-green-line": {
+        "role": "neutral",
+        "displayName": "On green line",
+        "tonalRamp": [
+          "oklch(15% 0.0461 172.32)",
+          "oklch(26% 0.0461 172.32)",
+          "oklch(38% 0.0461 172.32)",
+          "oklch(49% 0.0461 172.32)",
+          "oklch(61% 0.0461 172.32)",
+          "oklch(72% 0.0461 172.32)",
+          "oklch(84% 0.0461 172.32)",
+          "oklch(95% 0.0461 172.32)"
+        ]
+      },
+      "field-line": {
+        "role": "neutral",
+        "displayName": "Field line",
+        "tonalRamp": [
+          "oklch(15% 0.0421 139.43)",
+          "oklch(26% 0.0421 139.43)",
+          "oklch(38% 0.0421 139.43)",
+          "oklch(49% 0.0421 139.43)",
+          "oklch(61% 0.0421 139.43)",
+          "oklch(72% 0.0421 139.43)",
+          "oklch(84% 0.0421 139.43)",
+          "oklch(95% 0.0421 139.43)"
+        ]
+      },
+      "placeholder": {
+        "role": "neutral",
+        "displayName": "Placeholder",
+        "tonalRamp": [
+          "oklch(15% 0.0312 148.41)",
+          "oklch(26% 0.0312 148.41)",
+          "oklch(38% 0.0312 148.41)",
+          "oklch(49% 0.0312 148.41)",
+          "oklch(61% 0.0312 148.41)",
+          "oklch(72% 0.0312 148.41)",
+          "oklch(84% 0.0312 148.41)",
+          "oklch(95% 0.0312 148.41)"
+        ]
+      },
+      "sage-outline": {
+        "role": "neutral",
+        "displayName": "Sage outline",
+        "tonalRamp": [
+          "oklch(15% 0.0333 136.66)",
+          "oklch(26% 0.0333 136.66)",
+          "oklch(38% 0.0333 136.66)",
+          "oklch(49% 0.0333 136.66)",
+          "oklch(61% 0.0333 136.66)",
+          "oklch(72% 0.0333 136.66)",
+          "oklch(84% 0.0333 136.66)",
+          "oklch(95% 0.0333 136.66)"
+        ]
+      },
+      "mobile-form-line": {
+        "role": "neutral",
+        "displayName": "Mobile form line",
+        "tonalRamp": [
+          "oklch(15% 0.0328 135.03)",
+          "oklch(26% 0.0328 135.03)",
+          "oklch(38% 0.0328 135.03)",
+          "oklch(49% 0.0328 135.03)",
+          "oklch(61% 0.0328 135.03)",
+          "oklch(72% 0.0328 135.03)",
+          "oklch(84% 0.0328 135.03)",
+          "oklch(95% 0.0328 135.03)"
+        ]
+      },
+      "caption-ink": {
+        "role": "neutral",
+        "displayName": "Caption ink",
+        "tonalRamp": [
+          "oklch(15% 0.0207 150.58)",
+          "oklch(26% 0.0207 150.58)",
+          "oklch(38% 0.0207 150.58)",
+          "oklch(49% 0.0207 150.58)",
+          "oklch(61% 0.0207 150.58)",
+          "oklch(72% 0.0207 150.58)",
+          "oklch(84% 0.0207 150.58)",
+          "oklch(95% 0.0207 150.58)"
+        ]
+      },
+      "caption-paper": {
+        "role": "neutral",
+        "displayName": "Caption paper",
+        "tonalRamp": [
+          "oklch(15% 0.0067 97.35)",
+          "oklch(26% 0.0067 97.35)",
+          "oklch(38% 0.0067 97.35)",
+          "oklch(49% 0.0067 97.35)",
+          "oklch(61% 0.0067 97.35)",
+          "oklch(72% 0.0067 97.35)",
+          "oklch(84% 0.0067 97.35)",
+          "oklch(95% 0.0067 97.35)"
+        ]
+      },
+      "visit-caption-paper": {
+        "role": "neutral",
+        "displayName": "Visit caption paper",
+        "tonalRamp": [
+          "oklch(15% 0.0067 97.35)",
+          "oklch(26% 0.0067 97.35)",
+          "oklch(38% 0.0067 97.35)",
+          "oklch(49% 0.0067 97.35)",
+          "oklch(61% 0.0067 97.35)",
+          "oklch(72% 0.0067 97.35)",
+          "oklch(84% 0.0067 97.35)",
+          "oklch(95% 0.0067 97.35)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Hero display",
+        "purpose": "Large Manrope hero headline; responsive source overrides apply."
+      },
+      "headline": {
+        "displayName": "Section headline",
+        "purpose": "Section title base with source-specific sizes."
+      },
+      "title": {
+        "displayName": "Treatment title",
+        "purpose": "Native treatment summaries."
+      },
+      "body": {
+        "displayName": "Reading text",
+        "purpose": "DM Sans content and supporting copy."
+      },
+      "label": {
+        "displayName": "Field label",
+        "purpose": "Compact Manrope labels."
+      },
+      "button": {
+        "displayName": "Action label",
+        "purpose": "Base desktop button text."
+      },
+      "emphasis": {
+        "displayName": "Italic emphasis",
+        "purpose": "Playfair italic words within display copy."
+      }
+    },
+    "shadows": [
+      {
+        "name": "portrait-note",
+        "value": "0 14px 30px rgba(19,55,39,.09)",
+        "purpose": "Soft lift beneath the overlapping portrait annotation."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(.16,1,.3,1)",
+        "purpose": "Portrait reveal, arrow and disclosure transform easing."
+      },
+      {
+        "name": "state-transition",
+        "value": ".25s",
+        "purpose": "Buttons, disclosure fill and menu lines."
+      },
+      {
+        "name": "icon-transition",
+        "value": ".3s",
+        "purpose": "Text-link arrows, disclosure rotation and navigation underline."
+      },
+      {
+        "name": "portrait-reveal",
+        "value": "1.2s",
+        "purpose": "One-time clip-path reveal from inset(0 0 100% 0) to inset(0)."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-desktop",
+        "value": "1100px"
+      },
+      {
+        "name": "mobile-navigation",
+        "value": "800px"
+      },
+      {
+        "name": "stacked-content",
+        "value": "600px"
+      },
+      {
+        "name": "narrow",
+        "value": "360px"
+      },
+      {
+        "name": "wide",
+        "value": "1600px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Primary consultation action; base desktop variant.",
+      "html": "<button class=\"ds-button ds-primary\" type=\"button\">Quiero una consulta<svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:28px;min-height:54px;padding:14px 23px;border-radius:5px;font-family:var(--display,Manrope,sans-serif);font-size:14px;font-weight:600;line-height:1.4;border:1px solid var(--green,#174a43);text-decoration:none;white-space:nowrap;cursor:pointer;transition:background .25s,color .25s,transform .25s}.ds-button svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}.ds-button:active{transform:translateY(2px)}.ds-button:focus-visible{outline:3px solid var(--focus,#729854);outline-offset:5px}.ds-primary{background:var(--green,#174a43);color:var(--white,#fffef9)}.ds-primary:hover{background:var(--green-dark,#143c36);color:var(--paper,#f6f5f0)}@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}"
+    },
+    {
+      "name": "Outline button",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "Secondary action; header uses compact sizing.",
+      "html": "<button class=\"ds-button ds-outline\" type=\"button\">Reservar un turno<svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:28px;min-height:54px;padding:14px 23px;border-radius:5px;font-family:var(--display,Manrope,sans-serif);font-size:14px;font-weight:600;line-height:1.4;border:1px solid var(--green,#174a43);text-decoration:none;white-space:nowrap;cursor:pointer;transition:background .25s,color .25s,transform .25s}.ds-button svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}.ds-button:active{transform:translateY(2px)}.ds-button:focus-visible{outline:3px solid var(--focus,#729854);outline-offset:5px}.ds-outline{background:transparent;color:var(--ink,#183f39)}.ds-outline:hover{background:var(--green,#174a43);color:var(--paper,#f6f5f0)}@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}"
+    },
+    {
+      "name": "Text link",
+      "kind": "button",
+      "refersTo": "text-link",
+      "description": "Underlined hover with a gently shifting inline arrow.",
+      "html": "<a class=\"ds-link\" href=\"#tratamientos\">Conocé los tratamientos<svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a>",
+      "css": ".ds-link{display:inline-flex;align-items:center;gap:17px;font:600 14px/1.5 var(--display,Manrope,sans-serif);color:var(--ink,#183f39);text-decoration:none}.ds-link svg{width:18px;height:24px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;transition:transform .3s var(--ease,cubic-bezier(.16,1,.3,1))}.ds-link:hover{text-decoration:underline}.ds-link:hover svg{transform:translate(3px,-3px)}.ds-link:focus-visible{outline:3px solid var(--focus,#729854);outline-offset:5px}@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}"
+    },
+    {
+      "name": "Contact field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Bottom-rule field; visible label and native validation.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-name\">¿Cómo te llamás?</label><input id=\"ds-name\" name=\"nombre\" placeholder=\"Tu nombre y apellido\" autocomplete=\"name\" maxlength=\"100\" required></div>",
+      "css": ".ds-field{margin-bottom:23px;color:var(--ink,#183f39)}.ds-field label{display:block;font:600 11px var(--display,Manrope,sans-serif);margin-bottom:7px}.ds-field input{display:block;width:100%;border:0;border-bottom:1px solid var(--field-line,#94a88f);background:transparent;color:var(--ink,#183f39);border-radius:0;padding:9px 0 13px;font:400 14px/1.6 var(--body,\"DM Sans\",sans-serif);caret-color:var(--green,#174a43)}.ds-field input::placeholder{color:var(--placeholder,#596a5b);opacity:1}.ds-field input:focus-visible{outline:2px solid var(--focus,#729854);outline-offset:3px}@media(max-width:600px){.ds-field input{font-size:16px}}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Desktop navigation links; mobile dropdown behavior is documented in DESIGN.md.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Navegación principal\"><a href=\"#tratamientos\">Tratamientos</a><a href=\"#filosofia\">Nuestra mirada</a><a href=\"#contacto\">Encontranos</a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:30px;color:var(--ink,#183f39);font:600 13px var(--display,Manrope,sans-serif)}.ds-nav a{position:relative;color:inherit;text-decoration:none}.ds-nav a:after{content:\"\";position:absolute;bottom:-7px;height:1px;background:var(--green,#174a43);left:0;width:100%;transform:scaleX(0);transform-origin:left;transition:transform .3s}.ds-nav a:hover:after{transform:scaleX(1)}.ds-nav a:focus-visible{outline:3px solid var(--focus,#729854);outline-offset:5px}@media(max-width:800px){.ds-nav{background:var(--paper,#f6f5f0);padding:25px 24px 32px;border-bottom:1px solid var(--line,#d8ddd2);flex-direction:column;align-items:flex-start;gap:20px;font-size:16px}}@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}"
+    },
+    {
+      "name": "Treatment disclosure",
+      "kind": "custom",
+      "refersTo": "treatment-disclosure",
+      "description": "Native treatment row; toggle preserves browser keyboard semantics.",
+      "html": "<details class=\"ds-treatment\"><summary><span>Odontología integral<small>El cuidado de todos los días</small></span><span class=\"ds-expand\"><svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M12 5v14M5 12h14\"/></svg></span></summary><p>Controles, prevención y limpieza dental. Una evaluación integral para cuidar tu salud bucal.</p></details>",
+      "css": ".ds-treatment{border-block:1px solid var(--line,#d8ddd2);color:var(--ink,#183f39)}.ds-treatment summary{cursor:pointer;list-style:none;display:flex;align-items:center;justify-content:space-between;gap:18px;padding:27px 0;font:600 23px/1.4 var(--display,Manrope,sans-serif);letter-spacing:-.025em}.ds-treatment summary::-webkit-details-marker{display:none}.ds-treatment small{display:block;font:400 12px var(--body,\"DM Sans\",sans-serif);color:var(--muted,#526158);letter-spacing:0;margin-top:5px}.ds-expand{display:grid;place-items:center;width:32px;height:32px;border:1px solid var(--line,#d8ddd2);border-radius:50%;flex-shrink:0;transition:background .25s,color .25s}.ds-expand svg{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;transition:transform .3s var(--ease,cubic-bezier(.16,1,.3,1))}.ds-treatment[open] .ds-expand{background:var(--green,#174a43);border-color:var(--green,#174a43);color:var(--paper,#f6f5f0)}.ds-treatment[open] svg{transform:rotate(45deg)}.ds-treatment p{padding:0 48px 25px 0;color:var(--muted,#526158);font:400 14px/1.8 var(--body,\"DM Sans\",sans-serif);max-width:490px;margin:0}.ds-treatment summary:focus-visible{outline:3px solid var(--focus,#729854);outline-offset:5px}@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}"
+    },
+    {
+      "name": "Sage treatment aside",
+      "kind": "card",
+      "refersTo": "treatment-aside",
+      "description": "Flat supportive panel with a partial circle and contrasting italic emphasis.",
+      "html": "<aside class=\"ds-aside\"><p>No se trata solo<br>de tus dientes.<br><em>Se trata de vos.</em></p><a class=\"ds-aside-link\" href=\"#contacto\">Hablemos de tu sonrisa<svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a></aside>",
+      "css": ".ds-aside{background:var(--sage,#dde4d6);color:var(--ink,#183f39);padding:38px 43px;border-radius:4px;min-height:430px;position:relative;overflow:hidden;display:flex;flex-direction:column;align-items:flex-start;justify-content:space-between}.ds-aside:after{content:\"\";position:absolute;width:360px;height:360px;border:1px solid var(--sage-outline,#b7c6b1);border-radius:50%;right:-240px;top:115px;pointer-events:none}.ds-aside p{font:600 33px/1.4 var(--display,Manrope,sans-serif);letter-spacing:-.035em;margin:30px 0 45px}.ds-aside em{font:italic 500 36px/1.5 var(--serif,Playfair,Georgia,serif)}.ds-aside-link{display:inline-flex;gap:17px;align-items:center;color:inherit;font:600 13px/1.5 var(--display,Manrope,sans-serif);text-decoration:none}.ds-aside-link svg{width:18px;height:24px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;transition:transform .3s var(--ease,cubic-bezier(.16,1,.3,1))}.ds-aside-link:hover{text-decoration:underline}.ds-aside-link:hover svg{transform:translate(3px,-3px)}.ds-aside-link:focus-visible{outline:3px solid var(--focus,#729854);outline-offset:5px}@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}"
+    },
+    {
+      "name": "Portrait note",
+      "kind": "custom",
+      "refersTo": "portrait-note",
+      "description": "Overlapping image annotation; the system’s only shadow.",
+      "html": "<div class=\"ds-note\"><span class=\"ds-note-icon\"><svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M12 5v14M5 12h14\"/></svg></span><span>Precisión clínica.<br><strong>Calidez humana.</strong></span></div>",
+      "css": ".ds-note{display:inline-flex;align-items:center;gap:15px;background:var(--white,#fffef9);color:var(--ink,#183f39);padding:18px 30px 18px 18px;font:400 13px/1.7 var(--display,Manrope,sans-serif);border-radius:3px;box-shadow:0 14px 30px rgba(19,55,39,.09)}.ds-note strong{font-weight:600}.ds-note-icon{width:41px;height:41px;display:grid;place-items:center;background:var(--sage,#dde4d6);border-radius:50%}.ds-note-icon svg{width:23px;height:24px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}"
+    },
+    {
+      "name": "Smile seal",
+      "kind": "custom",
+      "refersTo": "smile-seal",
+      "description": "Decorative green/lime signature; fixed 14-degree tilt.",
+      "html": "<div class=\"ds-seal\" aria-hidden=\"true\"><svg viewBox=\"0 0 120 120\"><defs><path id=\"ds-seal-circle\" d=\"M60,60 m-43,0 a43,43 0 1,1 86,0 a43,43 0 1,1 -86,0\"/></defs><text><textPath href=\"#ds-seal-circle\" textLength=\"270\">SONREÍ CON CONFIANZA · CEOCOR · </textPath></text><path d=\"M41 64q19 24 38 0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><circle cx=\"45\" cy=\"47\" r=\"2\"/><circle cx=\"75\" cy=\"47\" r=\"2\"/></svg></div>",
+      "css": ".ds-seal{width:112px;height:112px;background:var(--green,#174a43);color:var(--lime,#d6e99b);border-radius:50%;transform:rotate(14deg)}.ds-seal svg{width:100%;height:100%;fill:currentColor;stroke:none}.ds-seal text{font-family:var(--display,Manrope,sans-serif);font-size:11px;letter-spacing:1.5px;font-weight:600}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Editorial humano",
+    "overview": "Editorial humano: warm paper, deep green and a natural smile create a calm, personal expression of odontological care. Broad asymmetric splits and generous section rhythm support clear reading; thin rules and tonal surfaces organize the page.\n\nThis captures the implemented proposal in dist/styles.css and dist/index.html, guided by DIRECTION.md and PRODUCT.md. The user delegated design through “hazlo”; the atmosphere and token names below describe the implementation, rather than individually approved stylistic decisions.",
+    "keyCharacteristics": [
+      "Warm paper, sage and deep green tonal surfaces.",
+      "Manrope headings, DM Sans reading text and Playfair italic emphasis.",
+      "A softened portrait corner, circular smile seal and overlapping clinical/human note.",
+      "Native disclosures, visible keyboard focus and restrained motion."
+    ],
+    "rules": [],
+    "dos": [
+      "Do preserve the local font assets and the three distinct font roles.",
+      "Do reuse the green, paper and sage assignments and thin dividers.",
+      "Do retain native details/summary, keyboard focus, semantic labels and reduced-motion behavior.",
+      "Do label illustrative campaign and interior imagery.",
+      "Do keep WhatsApp submission as message preparation; the visitor chooses when to send."
+    ],
+    "donts": [
+      "Don’t add routine shadows to flat sections or disclosure rows.",
+      "Don’t turn the exceptional portrait corner into the default component radius.",
+      "Don’t replace editorial splits with repeated card grids.",
+      "Don’t invent clinicians, patient outcomes, testimonials or clinical statistics.",
+      "Don’t let new decorative motion bypass prefers-reduced-motion."
+    ]
+  }
+}
