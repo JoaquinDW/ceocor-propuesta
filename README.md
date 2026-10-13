@@ -23,3 +23,7 @@ Se comprobaron los recursos locales, anclas, identificadores, opciones de servic
 ## Despliegue
 
 La implementación está en `dist/`. Se puede alojar en cualquier hosting estático. La publicación de Sites es una propuesta privada independiente del dominio ceocor.com.
+
+### Vercel
+
+Importar el repositorio con Root Directory en la raíz (vacío o `.`). El archivo `vercel.json` selecciona el framework Other, omite instalación y compilación y publica la carpeta `dist`. No se necesita `package.json`. Los pushes a `main` activan un nuevo deploy si está conectada la integración de GitHub.
